@@ -26,6 +26,10 @@ Mostra todos os brinquedos e quantidades adicionadas, capacidade de remover iten
 
 # Imagem do site
 
+![Screenshot_319](https://user-images.githubusercontent.com/111358030/213939673-83ccf857-3a74-4c9c-8b15-30082589d5d5.png)
+
+![Screenshot_318](https://user-images.githubusercontent.com/111358030/213939687-fecef555-25e0-4e0e-b3b3-8574843f1583.png)
+
 # Tecnologias utilizadas no projeto
 React, JavaScript, HTML, CSS, Hooks, Estado Global e styled-components.
 
