@@ -11,20 +11,18 @@ O projeto tem 3 grandes partes:
 1-Home:
 
 Mostra todos os brinquedos, com formas de ordenar-los por ordem crescente ou decrescente de preço.
-Filtro
-Por valor mínimo e máximo
-Por nome dos brinquedos
+
+Filtro por valor mínimo e máximo e por nome dos brinquedos
 
 2-Produtos:
 
 Tem um botão que permite adicioná-los ao carrinho.
+
 Em um card é exibido nome, preço e imagem.
 
 3-Carrinho:
 
-Mostra todos os brinquedos e quantidades adicionadas
-Capacidade de remover itens do carrinho
-Mostra o valor total do carrinho
+Mostra todos os brinquedos e quantidades adicionadas, capacidade de remover itens do carrinho e mostra o valor total do carrinho.
 
 # Imagem do site
 
