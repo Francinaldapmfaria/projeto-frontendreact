@@ -8,17 +8,20 @@ Foi desenvolvido um site E-commerce onde o usuario pode visualizar os produtos e
 
 O projeto tem 3 grandes partes:
 
-1-Home
+1-Home:
+
 Mostra todos os brinquedos, com formas de ordenar-los por ordem crescente ou decrescente de preço.
 Filtro
 Por valor mínimo e máximo
 Por nome dos brinquedos
 
 2-Produtos:
+
 Tem um botão que permite adicioná-los ao carrinho.
 Em um card é exibido nome, preço e imagem.
 
-3-Carrinho
+3-Carrinho:
+
 Mostra todos os brinquedos e quantidades adicionadas
 Capacidade de remover itens do carrinho
 Mostra o valor total do carrinho
