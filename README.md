@@ -35,5 +35,5 @@ React, JavaScript, HTML, CSS, Hooks, Estado Global e styled-components.
 
 # Link do Projeto
 
-https://projetoreactecommerce-francinaldapmfarian.surge.sh/
+https://projetoreactecommerce-francinaldapmfaria.surge.sh/
 
