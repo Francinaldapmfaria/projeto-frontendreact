@@ -78,6 +78,7 @@ position: relative;
     display: flex;
     margin-top: 10px;
     gap: 2rem;
+    /* alterações */
     
 }
 
